@@ -1,10 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+<<<<<<< HEAD
 
 import './index.css';
 
 import App from './App';
 
+=======
+import './index.css';
+import App from './App';
+
+
+>>>>>>> f075d4f21b132f3f8a2120ae12451a0206eb7f3c
 ReactDOM.render(
   <React.StrictMode>
     <App />
